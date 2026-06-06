@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Üretilen çıktılar
+logs/
+received/
+*.tmp
+*.summary.json
+
+# Büyük test verileri (yeniden üretilebilir)
+data/*.bin
+
+# Deney sonuçları ham CSV/JSON (grafikler results/figures/ altında tutulur)
+results/experiments.csv
+results/experiments.json
+
+# IDE
+.vscode/
+.idea/
