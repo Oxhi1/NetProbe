@@ -12,7 +12,7 @@ zamanaşımı, yeniden gönderim, bütünlük doğrulama) tamamen kendi protokol
 sağlanır — hazır bir dosya aktarım kütüphanesi kullanılmaz.
 
 ---
-##!!!Tablo ekran görüntüleri dizindeki results/figures klasöründe yer almaktadır!!!
+## !!!Tablo ekran görüntüleri dizindeki results/figures klasöründe yer almaktadır!!!
 
 ## Özellikler
 
